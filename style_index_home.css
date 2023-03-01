@@ -1,0 +1,21 @@
+body,.firtdiv
+{
+    background-color:aliceblue;       
+}
+
+.row
+{
+    min-height:50px;
+    background-color: #154c79;
+    justify-content:end;
+}
+p.aligned
+{
+    color: #eeeee4;
+    margin-top: 12px;
+}
+#certificate
+{ 
+    background-color: #eeeee4;
+    border-radius: 45px;
+}
